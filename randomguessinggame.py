@@ -20,4 +20,6 @@ def guess(x):
 
 
 
-guess(21)
+guess(14)
+
+#as da
